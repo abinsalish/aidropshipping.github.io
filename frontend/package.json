@@ -1,0 +1,16 @@
+{
+  "name": "ai-dropshipping-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for AI dropshipping platform",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^10.8.0"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0"
+  }
+}
